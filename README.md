@@ -1,6 +1,6 @@
 # 🎬 Movie Recommendation System
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](YOUR_STREAMLIT_APP_LINK_HERE)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://movierecommendationsystem-g54jhpeekzioq2poztfmf9.streamlit.app/)
 
 A content-based movie recommendation web application built with **Streamlit**, **Scikit-Learn**, and **Pandas**, trained on the TMDB 5000 Movie Dataset. The app analyzes plot overviews, genres, keywords, top cast members, and directors to generate instant, personalized recommendations.
 
@@ -8,7 +8,7 @@ A content-based movie recommendation web application built with **Streamlit**, *
 
 ## 🚀 Live Demo
 
-Check out the live interactive app: **[Launch Movie Recommender App](YOUR_STREAMLIT_APP_LINK_HERE)**
+Check out the live interactive app: **[Launch Movie Recommender App](https://movierecommendationsystem-g54jhpeekzioq2poztfmf9.streamlit.app/)**
 
 ---
 
